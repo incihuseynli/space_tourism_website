@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/space-tourism-website-solution-HEt8KUSDza)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -38,7 +38,7 @@ Users should be able to:
 ### Built with
 
 - JSX markup
-- Scss/Sass
+- Tailwind CSS
 - Framer/Motion
 - Vite
 - Routing
@@ -49,5 +49,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Inci Huseynli](https://github.com/incihuseynli)
+- Github - [Inci Huseynli](https://github.com/incihuseynli)
 - Frontend Mentor - [@incihuseynli](https://www.frontendmentor.io/profile/incihuseynli)
