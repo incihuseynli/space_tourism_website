@@ -4,7 +4,7 @@ const HomeMain = () => {
   return (
     <main
       className="
-        w-full 
+        w-full h-100
         bg-no-repeat 
         bg-cover
         bg-center
